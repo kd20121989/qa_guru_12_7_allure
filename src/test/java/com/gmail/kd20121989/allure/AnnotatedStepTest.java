@@ -1,4 +1,4 @@
-package com.gmail.kd2012.allure;
+package com.gmail.kd20121989.allure;
 
 import com.codeborne.selenide.logevents.SelenideLogger;
 import io.qameta.allure.selenide.AllureSelenide;
